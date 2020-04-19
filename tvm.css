@@ -1,0 +1,15 @@
+body{
+    background-color: white;
+}
+h1{
+    margin-top: 50px;
+    color: black;
+}
+p{
+    color: black;
+}
+img{
+    margin-top: 50px;
+    height: 400px;
+    width: 500px;
+}
